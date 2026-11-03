@@ -3,5 +3,6 @@ Siema, to jest nowe, testowe repozytorium na zajęcia.
 
 teraz dodamy jakieś zmiany w innym branchu
 I wywołamy konflikt
- 
-hasełko dnia: JetPack Compose Typing Indicator
+
+hasełko dnia: Dobra dobra no i dobra
+
