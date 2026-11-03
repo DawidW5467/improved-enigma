@@ -5,3 +5,4 @@ teraz dodamy jakieś zmiany w innym branchu
 I wywołamy konflikt
 
 hasełko dnia: Dobra dobra no i dobra
+
